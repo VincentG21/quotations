@@ -1,0 +1,22 @@
+<!--
+  Designed by: Vincent L Grimaldo
+  Copyright 2021
+  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="793" height="724.5" viewBox="0 0 793 724.5">
+  <defs>
+    <linearGradient id="linearGradient-2" x1="364.78" x2="777.14" y1="102.51" y2="237.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(2,197,99)"/>
+      <stop offset=".75" stop-color="rgb(199,242,221)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+    <linearGradient id="linearGradient-4" x1="0" x2="557.37" y1="-7.245" y2="652.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(2,197,99)"/>
+      <stop offset=".88" stop-color="rgb(199,242,221)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path fill="url(#linearGradient-2)" fill-rule="evenodd" d="M0 0h793s-51.17125816 15.3621503-45.5 57c5.67125816 41.6378497-56.55563721 71.03606499-138 60.25763422-193.5-25.60798908-91.50225306 85.770948-201.75569885 83.71420775C352.07392221 199.93333013 283.24330745 89.34650847 194.5 77.83480892 105.75669254 66.32310937 0 154.32182894 0 154.32182894V0z"/>
+    <path fill="url(#linearGradient-4)" fill-rule="evenodd" d="M0 0h563s-36.32965743 15.3621503-32.30327869 57c4.02637875 41.6378497-40.15236286 71.03606499-97.97477932 60.25763422C295.3442623 91.64964514 374 262.5 276.5 262.5s-57-73-140.5-51 36.5 83.5-24.5 163S101 389 50.5 454s0 83 0 150.5S0 724.5 0 724.5V0z"/>
+  </g>
+</svg>
